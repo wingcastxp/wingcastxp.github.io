@@ -3,6 +3,7 @@ title: 风语的呱呱博客
 description: This is pp's home.
 logo: favicon.png
 url: kongsong.me
+url: wingcastxp.me
 rss_url: /feed.xml
 
 # Jekyll
@@ -21,9 +22,9 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong    
-  # duoshuo: kongsong
-  # youyan: 2122392
+  disqus: wingcastxp    
+  # duoshuo: wingcastxp    
+  # youyan: 
   laibili: MTAyMC8yODgzNC81NDA0
 
 # Website analytics
@@ -33,17 +34,17 @@ baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?
 # Author information:
 author:
   #resume: /resume
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
+  name: wingcastxp     #the name of Blog section
+  about_me: To record my code road
  
 # Social Links
-email:               hi@kongsong.me
+email:               71066220@qq.com
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+facebook:            wingcastxp
+github:              wingcastxp
+stackoverflow:      
+linkedin:           wingcastxp
 #xing:              username
 #instagram:          username
 #lastfm:            username
