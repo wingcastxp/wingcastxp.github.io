@@ -35,7 +35,7 @@ baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?
 author:
   #resume: /resume
   name: wingcastxp     #the name of Blog section
-  about_me: To record my code road
+  about_me:              To record my code road
  
 # Social Links
 email:               71066220@qq.com
